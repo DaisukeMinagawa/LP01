@@ -1,0 +1,5 @@
+@use "color" as c;
+
+body {
+  background-color: c.$font-color;
+}
